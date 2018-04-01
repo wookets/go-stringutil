@@ -1,4 +1,4 @@
-package stringutil
+package goutil
 
 import "testing"
 
